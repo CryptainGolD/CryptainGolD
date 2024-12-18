@@ -28,6 +28,14 @@
 
 ---
 
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CryptainGolD&column=7&theme=onedark" />
+</div>
+<br />
+
+---
+
 ## 📫 Contact Me
 
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
