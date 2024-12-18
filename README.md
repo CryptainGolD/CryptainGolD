@@ -4,6 +4,11 @@
 
 ---
 
+### ✍️ Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ## 🛠 Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,35 +21,34 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![CryptainGolD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CryptainGolD&show_icons=true&theme=radical)
-
----
-
-## 🔝 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptainGolD&layout=compact&theme=radical)
-
----
-
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CryptainGolD&column=7&theme=onedark" />
-</div>
-<br />
-
----
-
----
-
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CryptainGolD&theme=radical&no-frame=true&margin-w=10)
 
 ---
 
-## 📫 Contact Me
+### 📈 GitHub Stats
+![CryptainGolD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CryptainGolD&show_icons=true&theme=radical)
 
+### 🔝 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptainGolD&layout=compact&theme=radical)
+
+---
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/CryptainGolD/CryptainGolD/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🎴 Dev Card
+<a href="https://app.daily.dev/CryptainGolD"><img src="https://api.daily.dev/devcards/your-devcard-id.svg" width="300" alt="CryptainGolD's Dev Card"/></a>
+
+---
+### 📚 Featured Repositories
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=awesome-project&theme=radical)](https://github.com/CryptainGolD/awesome-project)
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=another-project&theme=radical)](https://github.com/CryptainGolD/another-project)
+---
+
+### 📫 Contact Me
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
 - **LinkedIn**: [linkedin.com/in/cryptaingold](#)
 - **Twitter**: [twitter.com/CryptainGolD](#)
