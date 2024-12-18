@@ -36,6 +36,13 @@
 
 ---
 
+---
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CryptainGolD&theme=radical&no-frame=true&margin-w=10)
+
+---
+
 ## 📫 Contact Me
 
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
