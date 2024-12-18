@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I'm CryptainGolD!
 
-<!--
-**CryptainGolD/CryptainGolD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Blockchain Enthusiast** | 💻 **Full-Stack Developer** | 🔒 **Cryptography Fan**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![CryptainGolD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CryptainGolD&show_icons=true&theme=radical)
+
+---
+
+## 🔝 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptainGolD&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [linkedin.com/in/cryptaingold](#)
+- **Twitter**: [twitter.com/CryptainGolD](#)
