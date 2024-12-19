@@ -35,6 +35,6 @@
 ---
 
 ### 📚 Featured Repositories
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=awesome-project&theme=radical)](https://github.com/CryptainGolD/TelegramUI)
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=another-project&theme=radical)](https://github.com/CryptainGolD/EtherumTxAnalyst)
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=another-project&theme=radical)](https://github.com/CryptainGolD/SolanaTxAnalyst)
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=TelegramUI&theme=radical)](https://github.com/CryptainGolD/TelegramUI)
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=EtherumTxAnalyst&theme=radical)](https://github.com/CryptainGolD/EtherumTxAnalyst)
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=SolanaTxAnalyst&theme=radical)](https://github.com/CryptainGolD/SolanaTxAnalyst)
