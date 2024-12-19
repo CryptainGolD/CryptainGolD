@@ -5,7 +5,9 @@
 ---
 
 ## ✨ Quote of the Day
+<div align="center">
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
@@ -31,7 +33,7 @@
 
 ## 📊 Stats & 📚 Repositories
 
-<table>
+<table border="none">
 <tr>
   <td>
     <img src="https://github-readme-stats.vercel.app/api?username=CryptainGolD&show_icons=true&theme=radical" alt="CryptainGolD's GitHub Stats" />
