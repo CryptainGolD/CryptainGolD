@@ -34,21 +34,7 @@
 
 ---
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/CryptainGolD/CryptainGolD/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🎴 Dev Card
-<a href="https://app.daily.dev/CryptainGolD"><img src="https://api.daily.dev/devcards/your-devcard-id.svg" width="300" alt="CryptainGolD's Dev Card"/></a>
-
----
 ### 📚 Featured Repositories
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=awesome-project&theme=radical)](https://github.com/CryptainGolD/awesome-project)
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=another-project&theme=radical)](https://github.com/CryptainGolD/another-project)
----
-
-### 📫 Contact Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/cryptaingold](#)
-- **Twitter**: [twitter.com/CryptainGolD](#)
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=awesome-project&theme=radical)](https://github.com/CryptainGolD/TelegramUI)
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=another-project&theme=radical)](https://github.com/CryptainGolD/EtherumTxAnalyst)
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=another-project&theme=radical)](https://github.com/CryptainGolD/SolanaTxAnalyst)
