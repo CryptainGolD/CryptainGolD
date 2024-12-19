@@ -39,7 +39,6 @@
 ---
 
 ## 📚 Featured Repositories
-<div align="center">
   <a href="https://github.com/CryptainGolD/TelegramUI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=TelegramUI&theme=radical" alt="TelegramUI" />
   </a>
@@ -49,4 +48,3 @@
   <a href="https://github.com/CryptainGolD/SolanaTxAnalyst">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=SolanaTxAnalyst&theme=radical" alt="SolanaTxAnalyst" />
   </a>
-</div>
