@@ -5,9 +5,7 @@
 ---
 
 ## ✨ Quote of the Day
-<div align="center">
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
 
 ---
 
@@ -31,26 +29,24 @@
 
 ---
 
-## 📊 Stats & 📚 Repositories
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CryptainGolD&show_icons=true&theme=radical" alt="CryptainGolD's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptainGolD&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-<table border="none">
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=CryptainGolD&show_icons=true&theme=radical" alt="CryptainGolD's GitHub Stats" />
-  </td>
-  <td>
-    <div>
-      <a href="https://github.com/CryptainGolD/TelegramUI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=TelegramUI&theme=radical" alt="TelegramUI" />
-      </a>
-      <a href="https://github.com/CryptainGolD/EtherumTxAnalyst">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=EtherumTxAnalyst&theme=radical" alt="EthereumTxAnalyst" />
-      </a>
-      <a href="https://github.com/CryptainGolD/SolanaTxAnalyst">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=SolanaTxAnalyst&theme=radical" alt="SolanaTxAnalyst" />
-      </a>
-    </div>
-  </td>
-</tr>
-</table>
+---
 
+## 📚 Featured Repositories
+<div align="center">
+  <a href="https://github.com/CryptainGolD/TelegramUI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=TelegramUI&theme=radical" alt="TelegramUI" />
+  </a>
+  <a href="https://github.com/CryptainGolD/EtherumTxAnalyst">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=EtherumTxAnalyst&theme=radical" alt="EthereumTxAnalyst" />
+  </a>
+  <a href="https://github.com/CryptainGolD/SolanaTxAnalyst">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptainGolD&repo=SolanaTxAnalyst&theme=radical" alt="SolanaTxAnalyst" />
+  </a>
+</div>
